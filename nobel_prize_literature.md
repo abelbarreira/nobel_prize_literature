@@ -60,7 +60,7 @@
 | 1954 | Ernest Hemingway       | American          | *The Old Man and the Sea*, *Short Stories*, *The Sun Also Rises*                |                                   |
 | 1955 | Halldór Laxness        | Icelandic         | *Independent People (abridged)*, *Short Fiction*, *Essays*                      |                                   |
 | 1956 | Juan Ramón Jiménez     | Spanish           | *Platero and I*, *Poems*, *Lyrics*                                              |                                   |
-| 1957 | Albert Camus           | French            | *The Fall*, *The Myth of Sisyphus*                                              | **The Stranger**                  |
+| 1957 | Albert Camus           | French            | *The Fall*, *The Myth of Sisyphus*                                              | **El Extranjero**                 |
 | 1958 | Boris Pasternak        | Russian           | *Doctor Zhivago*, *Poems*, *Short Prose*                                        |                                   |
 | 1959 | Salvatore Quasimodo    | Italian           | *Poems*, *Short Lyrics*, *Selected Works*                                       |                                   |
 | 1960 | Saint-John Perse       | French            | *Anabase*, *Poems*, *Exile*                                                     |                                   |
@@ -87,7 +87,7 @@
 | 1979 | Odysseas Elytis        | Greek             | *Axion Esti*, *Poems*, *Short Lyrics*                                           |                                   |
 | 1980 | Czesław Miłosz         | Polish            | *The Captive Mind*, *Poems*, *The World*                                        |                                   |
 | 1981 | Elias Canetti          | British           | *Auto-da-Fé*, *Memoirs*, *Short Prose*                                          |                                   |
-| 1982 | Gabriel García Márquez | Colombian         | *No One Writes to the Colonel*, *Leaf Storm*                                    | **Chronicle of a Death Foretold** |
+| 1982 | Gabriel García Márquez | Colombian         | *No One Writes to the Colonel*, *Leaf Storm*                                    | **El coronel no tiene quien le escriba** |
 | 1983 | William Golding        | British           | *Lord of the Flies*, *The Inheritors*, *Pincher Martin*                         |                                   |
 | 1984 | Jaroslav Seifert       | Czech             | *Poems*, *Selected Lyrics*, *Short Verse*                                       |                                   |
 | 1985 | Claude Simon           | French            | *The Flanders Road*, *Short Fiction*, *Essays*                                  |                                   |
